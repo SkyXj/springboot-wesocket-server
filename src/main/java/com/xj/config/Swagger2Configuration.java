@@ -45,7 +45,7 @@ public class Swagger2Configuration {
       .title("接口文档")
       .description("springboot swagger2")
     //.termsOfServiceUrl("http://blog.csdn.net/u014231523网址链接")
-      .contact(new Contact(sky, "http://www.tofms.net/", "1012262558@qq.com"))
+      .contact(new Contact("sky", "http://www.tofms.net/", "1012262558@qq.com"))
       .build();
     }
 
