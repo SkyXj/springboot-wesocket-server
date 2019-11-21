@@ -27,7 +27,7 @@ public class SocketTask {
     @Autowired
     private List<DensityVo> list;
 
-    public static int i=40;
+    public static int i=39;
     //3.添加定时任务
     //@Scheduled(cron = "0/5 * * * * ?")
     //或直接指定时间间隔，例如：20分钟
